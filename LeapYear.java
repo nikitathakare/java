@@ -5,7 +5,7 @@ public class LeapYear {
 	public static void main(String[] args) {
 		Scanner sc =new Scanner (System.in);
 		int count = 0;
-		int con =0;
+		int con =0;final int a=5;
 		int year = sc.nextInt();
 		int year2 = sc.nextInt();
 		
